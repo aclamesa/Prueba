@@ -6,3 +6,4 @@
 - List 2: 
 *cursiva*
 **negreta**
+We will now start understanding how versions, pull and push work.
